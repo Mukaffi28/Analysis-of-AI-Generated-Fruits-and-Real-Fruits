@@ -1,1 +1,1 @@
-# Analysis-of-AI-Generated-Fruits-and-Real-Fruits
+# Analysis of AI Generated Fruits vs Real-Fruits
